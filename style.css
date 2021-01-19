@@ -1,0 +1,16 @@
+h1, h3{
+    color: #C0715B;
+    text-align: center;
+    
+}
+body{
+    padding-left: 10px;
+}
+footer{
+    background-color: rgb(38, 44, 38);
+    color: rgb(250, 249, 246);
+    padding: 10px;
+}
+a{
+    color: crimson;
+}
